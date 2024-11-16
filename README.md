@@ -1,26 +1,20 @@
 
-
-```php
-use Illuminate\Support\Facades\Route;
-
-Route::get('/', function () {
+`Route::get('/accueil', function () {
     return view('accueil');
-});
-Route::get('/accueil', function () {
-    return view('accueil');
-});
-Route::get('/services', function () {
+});`
+`Route::get('/services', function () {
     return view('services');
-});
-Route::get('/travaux', function () {
+});`
+`Route::get('/travaux', function () {
     return view('travaux');
-});
-Route::get('/processus', function () {
+});`
+`Route::get('/processus', function () {
     return view('processus');
-});
-Route::get('/a_propos', function () {
+});`
+`Route::get('/a_propos', function () {
     return view('a_propos');
-});
+});`
+
 Route::get('/carrieres', function () {
     return view('carrieres');
 });
