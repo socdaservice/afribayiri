@@ -1,9 +1,3 @@
-# Mon Projet Laravel
-
-## Routes Web
-
-Voici les routes web de votre projet Laravel, incluant les pages du site:
-
 
 
 ```php
