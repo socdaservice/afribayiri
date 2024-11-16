@@ -15,9 +15,10 @@
     return view('a_propos');
 });`
 
-Route::get('/carrieres', function () {
+`Route::get('/carrieres', function () {
     return view('carrieres');
-});
-Route::get('/contact', function () {
+});`
+`Route::get('/contact', function () {
     return view('contact');
-});
+});`
+
