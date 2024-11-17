@@ -1,1 +1,1 @@
-<a href="{{ url('views/accueil.blade.php') }}">Voir le site</a>
+<a href="{{ url('resources/views/accueil.blade.php') }}">Voir le site</a>
