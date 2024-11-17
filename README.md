@@ -1,1 +1,1 @@
-<a href="{{ url('resources/views/accueil.blade.php') }}">Voir le site</a>
+<a href="https://github.com/socdaservice/afribayiri.com/blob/master/resources/views/accueil.blade.php">Voir le site</a>
