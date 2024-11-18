@@ -14,13 +14,13 @@
 <body>
     <header>
         <ul>
-            <li><a href="html/accueil.html">Accueil</a></li>
-            <li><a href="html/service.html">Services</a></li>
-            <li><a href="html/travaux.html">Travaux</a></li>
-            <li><a href="html/processus.html">Processus</a></li>
-            <li><a href="html/propo.html">A Propos</a></li>
-            <li><a href="html/carriere.html">Carrières</a></li>
-            <li><a href="html/contact.html">Contacts</a></li>
+            <li><a href="https://github.com/socdaservice/afribayiri.com/blob/master/html/accueil.html">Accueil</a></li>
+            <li><a href="https://github.com/socdaservice/afribayiri.com/blob/master/html/service.html">Services</a></li>
+            <li><a href="https://github.com/socdaservice/afribayiri.com/blob/master/html/travaux.html">Travaux</a></li>
+            <li><a href="https://github.com/socdaservice/afribayiri.com/blob/master/html/propos.html">Processus</a></li>
+            <li><a href="https://github.com/socdaservice/afribayiri.com/blob/master/html/propos.html">A Propos</a></li>
+            <li><a href="https://github.com/socdaservice/afribayiri.com/blob/master/html/carrieres.html">Carrières</a></li>
+            <li><a href="https://github.com/socdaservice/afribayiri.com/blob/master/html/contact.html">Contacts</a></li>
             <!-- Ajoutez d'autres liens ici -->
         </ul>
     </header>
