@@ -81,7 +81,7 @@
  <header>
             <div class="navigation">
               <nav>
-                <a class="nav-item is-active" data-active-color="orange" data-target="Accueil" href="#">Accueil</a>
+                <a class="nav-item is-active" data-active-color="orange" data-target="Accueil" href="https://github.com/socdaservice/afribayiri.com/blob/master/html/accueil.html">Accueil</a>
                 <a class="nav-item" data-active-color="green" data-target="Services" href="https://github.com/socdaservice/afribayiri.com/blob/master/html/service.html">Services</a>
                 <a class="nav-item" data-active-color="blue" data-target="Travaux" href="https://github.com/socdaservice/afribayiri.com/blob/master/html/travaux.html">Travaux</a>
                 <a class="nav-item" data-active-color="red" data-target="Processus" href="https://github.com/socdaservice/afribayiri.com/blob/master/html/processus.html">Proccessus</a>
