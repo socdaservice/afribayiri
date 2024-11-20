@@ -1,29 +1,19 @@
-<?php
+# Laravel Application
 
-use Illuminate\Support\Facades\Route;
+This is a Laravel application that demonstrates how to display Blade views as web pages.
 
-Route::get('/', function () {
-    return view('accueil');
-});
-Route::get('/accueil', function () {
-    return view('accueil');
-});
-Route::get('/services', function () {
-    return view('services');
-});
-Route::get('/travaux', function () {
-    return view('travaux');
-});
-Route::get('/processus', function () {
-    return view('processus');
-});
-Route::get('/a_propos', function () {
-    return view('a_propos');
-});
-Route::get('/carrieres', function () {
-    return view('carrieres');
-});
-Route::get('/contact', function () {
-    return view('contact');
-});
-Route::post('/inscription', 'ServiceRequestController@store');
+## Getting Started
+
+### Prerequisites
+
+- PHP >= 7.4
+- Composer
+- MySQL (or any other database you prefer)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/socdaservice/afribayiri.com.git
+   cd afribayiri.com
