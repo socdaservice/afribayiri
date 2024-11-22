@@ -81,13 +81,13 @@
  <header>
             <div class="navigation">
               <nav>
-                <a class="nav-item is-active" data-active-color="orange" data-target="Accueil" href="https://github.com/socdaservice/afribayiri.com/html/accueil.html">Accueil</a>
-                <a class="nav-item" data-active-color="green" data-target="Services" href="https://github.com/socdaservice/afribayiri.com/html/service.html">Services</a>
-                <a class="nav-item" data-active-color="blue" data-target="Travaux" href="https://github.com/socdaservice/afribayiri.com/html/travaux.html">Travaux</a>
-                <a class="nav-item" data-active-color="red" data-target="Processus" href="https://github.com/socdaservice/afribayiri.com/html/processus.html">Proccessus</a>
-                <a class="nav-item" data-active-color="rebeccapurple" data-target="Propos" href="https://github.com/socdaservice/afribayiri.com/html/propos.html">Propos</a>
-                <a class="nav-item" data-active-color="orangered" data-target="Carrière" href="https://github.com/socdaservice/afribayiri.com/html/carrieres.html">Carrière</a>
-                <a class="nav-item" data-active-color="lightblue" data-target="Contacts" href="https://github.com/socdaservice/afribayiri.com/html/contact.html">Contacts</a>
+                <a class="nav-item is-active" data-active-color="orange" data-target="Accueil" href="html/accueil.html">Accueil</a>
+                <a class="nav-item" data-active-color="green" data-target="Services" href="html/service.html">Services</a>
+                <a class="nav-item" data-active-color="blue" data-target="Travaux" href="html/travaux.html">Travaux</a>
+                <a class="nav-item" data-active-color="red" data-target="Processus" href="html/processus.html">Proccessus</a>
+                <a class="nav-item" data-active-color="rebeccapurple" data-target="Propos" href="html/propos.html">Propos</a>
+                <a class="nav-item" data-active-color="orangered" data-target="Carrière" href="html/carrieres.html">Carrière</a>
+                <a class="nav-item" data-active-color="lightblue" data-target="Contacts" href="html/contact.html">Contacts</a>
                 <span class="nav-indicator"></span>
               </nav>
             </div>
